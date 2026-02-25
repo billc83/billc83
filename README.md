@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I'm Bill
 
-<!--
-**billc83/billc83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer focused on building real, shipped products — from desktop applications to indie games.
 
-Here are some ideas to get you started:
+🎮 My released games:  
+https://starboardbowgames.itch.io  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 JetJot – Lightweight distraction-free word processor  
+Built with C#, .NET, and Avalonia  
+👉 [CHECK IT OUT HERE!](https://starboardbowgames.itch.io/jetjot/comments)
+
+---
+
+### 🚀 What I Work With
+
+- **Languages:** C#, Python, GDScript, Java  
+- **Frameworks:** .NET, Avalonia, PyGame  
+- **Game Dev:** Godot, Unity, Blender  
+- **Tools:** Git, Rider, PyCharm, VS Code  
+
+---
+
+### 📈 Current Focus
+
+- Expanding JetJot + JetPlot ecosystem  
+- Building efficient, low-poly 3D assets  
+- Studying Computer Science (SNHU)  
+
+---
+
+### 📫 Connect
+
+[(LinkedIn)](https://www.linkedin.com/in/williamcoulombe/)
