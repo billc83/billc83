@@ -7,7 +7,13 @@ https://starboardbowgames.itch.io
 
 📝 JetJot – Lightweight distraction-free word processor  
 Built with C#, .NET, and Avalonia  
-👉 [CHECK IT OUT HERE!](https://starboardbowgames.itch.io/jetjot/comments)
+👉 [CHECK IT OUT HERE!](https://starboardbowgames.itch.io/jetjot)
+
+👻 Super Happy Ghost Maze – 3D Horror Game
+Built with Godot and GDScript  
+
+A fast-paced first-person horror experience inspired by maze-based gameplay.  
+👉 [CHECK IT OUT HERE!](https://starboardbowgames.itch.io/superhappyghostmaze)
 
 ---
 
